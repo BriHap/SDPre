@@ -5,7 +5,7 @@ public class Objective2Lab2 {
       String state = "Colorado";
 
 
-	System.out.println("Name: Brian Haptonstall Age: 52 State: Colorado");
+	System.out.println(name age state);
 
 }
 
